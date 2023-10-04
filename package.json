@@ -50,5 +50,9 @@
   },
   "devDependencies": {
     "source-map-loader": "^4.0.1"
-  }
+  },
+  "main": "index.js",
+  "author": "Zima",
+  "license": "ISC",
+  "description": ""
 }
